@@ -1,2 +1,2 @@
-# PAN_IITD
+# ImageCategorizer
 Contains code for categorizing images
